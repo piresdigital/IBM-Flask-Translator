@@ -1,0 +1,5 @@
+---
+applications:
+ - name: flask_translator
+   random-random: true
+   memory: 64M
